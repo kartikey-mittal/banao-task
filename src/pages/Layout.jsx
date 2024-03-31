@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Test from "./Test";
 import Dempo from "./Dempo";
 import Hero from "./Hero";
-import GridCard from "./GridCard";
+// import GridCard from "./GridCard";
 import Testimonials from "../components/Testimonials";
 import Home from "./Home";
 const Layout = () => {
