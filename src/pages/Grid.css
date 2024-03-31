@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    /* Adjust the layout for screens narrower than 768px */
+    div {
+      grid-template-columns: 1fr; /* Change to a single column layout */
+      gap: 10px; /* Reduce the gap between cards */
+      margin-top: 20px; /* Adjust the top margin */
+    }
+  }
+  
