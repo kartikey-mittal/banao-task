@@ -11,11 +11,11 @@ const Layout = () => {
     <div>
       <Router>
         <Routes>
-          <Route path="/" element={<Test />} />
+          <Route path="/" element={<  Home />} />
           <Route path="/dempo" element={<Dempo />} />
           <Route path="/hero" element={<Hero />} />
           <Route path="/grid" element={<Testimonials />} />
-          <Route path="/home" element={<Home />} />
+          <Route path="/test" element={<Test />} />
         </Routes>
       </Router>
     </div>
