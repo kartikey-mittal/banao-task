@@ -1,3 +1,13 @@
+# Responsive Landing Page
+
+# Screenshot
+
+![Screenshot](https://firebasestorage.googleapis.com/v0/b/snipify-bda1e.appspot.com/o/images%2Fpages.dev.jpg?alt=media&token=82c85369-4848-409d-96a4-1b4da884fd21)
+
+This is a screenshot featuring some text. You can view the image by clicking the link above.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
