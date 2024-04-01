@@ -1,3 +1,6 @@
+# Deployed Link
+https://banao-task.pages.dev/
+
 # Responsive Landing Page
 
 # Screenshot
