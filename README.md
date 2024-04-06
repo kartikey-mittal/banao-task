@@ -1,11 +1,11 @@
 # Deployed Link
-https://users-api.pages.dev/
+https://banao-task.pages.dev/
 
-
+# Responsive Landing Page
 
 # Screenshot
 
-![Screenshot](https://imgtr.ee/images/2024/04/06/cdb1fc031872e20b37e3fcd47f4eb00e.png)
+![Screenshot](https://firebasestorage.googleapis.com/v0/b/snipify-bda1e.appspot.com/o/images%2Fpages.dev.jpg?alt=media&token=82c85369-4848-409d-96a4-1b4da884fd21)
 
 This is a screenshot featuring some text. You can view the image by clicking the link above.
 
